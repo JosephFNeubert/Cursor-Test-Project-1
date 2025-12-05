@@ -1,4 +1,5 @@
 const { useState, useRef, useEffect } = React;
+const math = require('mathjs');
 
 // List of extra calculus/math symbols for the keyboard
 const SYMBOLS = [
